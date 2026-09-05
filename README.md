@@ -46,14 +46,14 @@ I am a **Full-Stack Developer with 3+ years of production experience** architect
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🎨 <a href="https://github.com/gurumaan/portfolio">Artisan Corkboard Portfolio</a></h3>
-      <p><b>Tactile Craftsman Developer Portfolio & Physics Engine</b></p>
-      <p>Handcrafted portfolio interface with multi-node Verlet pull-chain physics, ambient room lighting (Midnight tungsten vs. Daylight workshop), native synthesized Web Audio sound effects, and zero heavy frameworks.</p>
+      <h3 align="left">🎵 <a href="https://github.com/gurumaan/playify">Playify</a></h3>
+      <p><b>Music Streaming PWA & Standalone Android Application (v64.0)</b></p>
+      <p>Full-featured audio streaming platform with offline service worker caching, Android APK build, and edge serverless Cloudflare Workers API implementing pure DES cryptographic media stream decryption.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Verlet_Physics-7c5c3e?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web_Audio-2f6e5d?style=flat-square" />
-        <img src="https://img.shields.io/badge/Skeuomorphic_CSS-d6a54c?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -78,6 +78,19 @@ I am a **Full-Stack Developer with 3+ years of production experience** architect
         <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square" />
         <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="left">🎨 <a href="https://github.com/gurumaan/portfolio">Artisan Corkboard Portfolio</a></h3>
+      <p><b>Tactile Craftsman Developer Portfolio & Physics Engine</b></p>
+      <p>Handcrafted portfolio interface with multi-node Verlet pull-chain physics, ambient room lighting (Midnight tungsten vs. Daylight workshop), native synthesized Web Audio sound effects, and zero heavy frameworks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Verlet_Physics-7c5c3e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web_Audio-2f6e5d?style=flat-square" />
+        <img src="https://img.shields.io/badge/Skeuomorphic_CSS-d6a54c?style=flat-square" />
       </p>
     </td>
   </tr>
