@@ -7,7 +7,7 @@
 TypeScript  ·  React 19  ·  Node.js  ·  Python  ·  PostgreSQL  ·  Linux VPS / Nginx
 ```
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Artisan_Edition-b58334?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/gurumaan/portfolio)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Artisan_Edition-b58334?style=for-the-badge&logo=safari&logoColor=white)](https://gurumaan.github.io/)
 [![Email](https://img.shields.io/badge/Verified_Email-gurudeveloper05%40gmail.com-214f43?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurudeveloper05@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Worldwide_Remote-1e293b?style=for-the-badge&logo=globe&logoColor=white)](#)
 
