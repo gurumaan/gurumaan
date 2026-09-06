@@ -35,17 +35,6 @@ I am a **Full-Stack Developer with 3+ years of production experience** architect
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/gurumaan/inspectflow">InspectFlow</a></h3>
-      <p><b>Web Architecture, OWASP Security & Tech Stack Auditor</b></p>
-      <p>Interactive compliance studio evaluating 6 critical HTTP security headers (CSP, HSTS, XFO), composite 0–100 scoring, copy-paste remediation patches (Next.js, Express, Nginx), and responsive multi-device viewport sandboxing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/OWASP_Security-b91c1c?style=flat-square&logo=owasp&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="left">🎵 <a href="https://github.com/gurumaan/playify">Playify</a></h3>
       <p><b>Music Streaming PWA, Real-Time Spotify Jam &amp; Android APK</b></p>
       <p>Full-featured audio streaming platform featuring real-time <b>Spotify Jam multi-device sync (&lt;10ms delay via WebRTC PeerJS &amp; MQTT)</b>, offline service worker caching, Android APK build, and pure DES cryptographic media stream decryption.</p>
@@ -55,6 +44,18 @@ I am a **Full-Stack Developer with 3+ years of production experience** architect
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
         <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=flat-square&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🍽️ <a href="https://github.com/gurumaan/dineflow">DineFlow</a></h3>
+      <p><b>Real-Time QR Table Ordering, Kitchen KDS &amp; Hospitality OS</b></p>
+      <p>Enterprise hospitality operating system featuring zero-install guest table ordering, multi-station kitchen display routing, tactile <b>Web Audio POS acoustic counter bell synthesizer</b>, live elapsed ticket timers, and 80mm thermal receipt printing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Hospitality_OS-C85A32?style=flat-square&logo=safari&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kitchen_KDS-1B1D22?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Audio_Bell-2E7D32?style=flat-square&logo=webaudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/BroadcastChannel-0284C7?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Thermal_Receipt-D97706?style=flat-square&logo=target&logoColor=white" />
       </p>
     </td>
   </tr>
