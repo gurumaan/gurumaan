@@ -47,10 +47,11 @@ I am a **Full-Stack Developer with 3+ years of production experience** architect
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🎵 <a href="https://github.com/gurumaan/playify">Playify</a></h3>
-      <p><b>Music Streaming PWA & Standalone Android Application (v64.0)</b></p>
-      <p>Full-featured audio streaming platform with offline service worker caching, Android APK build, and edge serverless Cloudflare Workers API implementing pure DES cryptographic media stream decryption.</p>
+      <p><b>Music Streaming PWA, Real-Time Spotify Jam &amp; Android APK</b></p>
+      <p>Full-featured audio streaming platform featuring real-time <b>Spotify Jam multi-device sync (&lt;10ms delay via WebRTC PeerJS &amp; MQTT)</b>, offline service worker caching, Android APK build, and pure DES cryptographic media stream decryption.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Spotify_Jam-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebRTC_PeerJS-333333?style=flat-square&logo=webrtc&logoColor=white" />
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
         <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=flat-square&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
