@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gursharan Singh
-### Full-Stack Developer & Systems Builder · 3+ Years Experience
+### Full-Stack Software Engineer & Systems Builder
 
 ```text
 TypeScript  ·  React 19  ·  Node.js  ·  Python  ·  PostgreSQL  ·  Linux VPS / Nginx
@@ -21,7 +21,7 @@ TypeScript  ·  React 19  ·  Node.js  ·  Python  ·  PostgreSQL  ·  Linux VPS
 
 ### 🔨 About Me
 
-I am a **Full-Stack Developer with 3+ years of production experience** architecting high-reliability web systems, offline-first data replication layers, and 24/7 autonomous cloud daemons. I focus on building software that businesses can run their core operations on without fragile abstractions.
+I am a **Full-Stack Software Engineer** architecting high-reliability web systems, offline-first data replication layers, and 24/7 autonomous cloud daemons. I focus on building software that businesses can run their core operations on without fragile abstractions.
 
 - ⚡ **Frontend Engineering:** React 19, TypeScript, Next.js 14, Vite, Web Audio API, Canvas 2D / Verlet Physics engines, and accessible CSS design systems.
 - 🛠️ **Backend & APIs:** Node.js (Express), Python 3, asynchronous event-driven pipelines, RS256 JWT auth with JWKS key rotation, and signed webhooks.
