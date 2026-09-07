@@ -7,7 +7,7 @@
 TypeScript  ·  React 19  ·  Node.js  ·  Python  ·  PostgreSQL  ·  Linux VPS / Nginx
 ```
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Artisan_Edition-b58334?style=for-the-badge&logo=safari&logoColor=white)](https://gurumaan.github.io/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Artisan_Edition-b58334?style=for-the-badge&logo=safari&logoColor=white)](https://guru4code.online/)
 [![Email](https://img.shields.io/badge/Verified_Email-gurudeveloper05%40gmail.com-214f43?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurudeveloper05@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Worldwide_Remote-1e293b?style=for-the-badge&logo=globe&logoColor=white)](#)
 
@@ -121,5 +121,5 @@ I am a **Full-Stack Developer with 3+ years of production experience** architect
 ### 📬 Direct Channels
 
 - **Email**: [gurudeveloper05@gmail.com](mailto:gurudeveloper05@gmail.com)
-- **Portfolio**: [Selected Work & Architecture Blueprint](https://github.com/gurumaan/portfolio)
+- **Portfolio**: [guru4code.online](https://guru4code.online)
 - **Availability**: Worldwide (Remote)
